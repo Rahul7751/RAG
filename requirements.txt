@@ -5,4 +5,6 @@ sentence-transformers
 requests
 numpy
 langchain-google-genai
-streamlit
+faiss-cpu
+tqdm
+transformers
