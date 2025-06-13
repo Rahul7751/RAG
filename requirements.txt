@@ -4,3 +4,5 @@ pypdf
 sentence-transformers
 requests
 numpy
+langchain-google-genai
+streamlit
